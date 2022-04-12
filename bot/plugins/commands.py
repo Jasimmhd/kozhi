@@ -48,9 +48,13 @@ async def start(bot, update):
 
     buttons = [[
         
-        InlineKeyboardButton('channel 😊', url='https://t.me/+O4qa2MPyw6NhNGZl')
+        InlineKeyboardButton('channel 😊', url='https://t.me/+O4qa2MPyw6NhNGZl') 
+       
     ],[
-        InlineKeyboardButton('Help ⚙', callback_data="help")
+       InlineKeyboardButton('Group 😝', url='https://t.me/filmzonegroups1')
+
+    ],[
+        InlineKeyboardButton('Admin 😌', url='https://t.me/@jasimmhd)
     ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)
