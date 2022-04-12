@@ -50,7 +50,7 @@ async def start(bot, update):
         
         InlineKeyboardButton('channel 😊', url='https://t.me/+O4qa2MPyw6NhNGZl') 
        
-    ]]
+    ][
        InlineKeyboardButton('Group 😝', url='https://t.me/filmzonegroups1')
 
     ],[
